@@ -23,7 +23,7 @@ How to run
 ## 網頁爬蟲
 練習: [ptt_nba版](web_spider/nba.csv)
 
-## 資料分析
+## 資料分析  
 練習: [肺炎確診資料](panda/covid.csv)
 ---
 ## github指令
