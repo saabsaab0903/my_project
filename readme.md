@@ -10,7 +10,7 @@
 ![snake](pic/snake.png)
 
 How to run  
-> cd snake_game
+> cd snake_game  
 > python snake.py  
 
 ## 網頁
