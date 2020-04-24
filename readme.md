@@ -18,8 +18,10 @@ How to run
 
 How to run  
 > 1. 找到 web_design 資料夾
-> 2. 把index.html 用網頁打開 
+> 2. 把index.html 用網頁打開
 
+## 網頁爬蟲
+練習: [ptt_nba版](web_spider/nba.csv)
 
 
 ---
