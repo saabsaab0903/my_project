@@ -1,10 +1,3 @@
-# My Project
-
-## What we Learned
-- [x] 貪食蛇
-- [x] 網頁設計
-- [x] 網頁爬蟲
-- [x] github
 
 
 
