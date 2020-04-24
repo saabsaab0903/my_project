@@ -35,11 +35,3 @@ How to run
 >|網頁|html/css/javascript||
 >|網頁爬蟲|Python|BeautifulSoup|
 >|資料分析|Python|Pandas|
-
-表格
->|A|B|C|
->|---|---|---|
->|aa|bb|cc|
->|zz|qq|bb|
-
-<!-- 這是一行註解-->
