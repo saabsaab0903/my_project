@@ -25,6 +25,8 @@ How to run
 
 ## 資料分析  
 練習: [肺炎確診資料](panda/covid.csv)
+
+
 ---
 ## github指令
 - config (設定git bash)
